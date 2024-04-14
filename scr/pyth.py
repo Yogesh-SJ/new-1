@@ -1,2 +1,2 @@
 print("pyth.py")
-print("version1")
+print("version 2")
